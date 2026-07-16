@@ -1,0 +1,13 @@
+form
+{
+    margin:0.3cm 0.2cm 0.5cm 0.1cm;
+    border-style:groove;
+    border-width:0.6cm;
+    border-color:green orange;
+}
+input
+{
+    position:relative;
+    right:5cm;
+    top:1.5cm;
+}

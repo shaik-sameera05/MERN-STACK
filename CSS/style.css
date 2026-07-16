@@ -1,0 +1,46 @@
+
+body{
+    background-color:wheat;    
+    font-family :Arial, sans-serif;
+}
+p{
+    color: black;
+}
+button{
+    background-color:steelblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius :5px;
+    cursor: pointer;
+}
+#Source
+{
+    color: red;
+}
+table,th,td{
+    padding: 10px;
+    text-align: left;
+    border-style: solid;
+}
+tabletd{
+    border-style: solid;
+    border-color: violet;
+}
+.td
+{
+    border-style: solid;
+    border-color: violet;
+}
+li
+{
+    font-style: italic;
+    font-weight: bold;
+    background-color: lightgray;
+    text-align: left;
+    width: 50%;
+    background:linear-gradient(90deg, steelblue, lightblue,violet,pink,orange);
+}
+
+
+
