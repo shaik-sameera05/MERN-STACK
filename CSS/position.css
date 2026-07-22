@@ -1,13 +1,13 @@
-form
-{
-    margin:0.3cm 0.2cm 0.5cm 0.1cm;
-    border-style:groove;
-    border-width:0.6cm;
-    border-color:green orange;
+form{
+    margin: 0.3cm 0.2cm 0.5cm 0.1cm;
+    border-style:ridge;
+    border-width: 0.3cm;
+    border-color: rgb(135, 135, 255) rgb(255, 93, 233) rgb(248, 112, 112) rgb(165, 148, 55);
+    border-radius: 0px 50px 0px 50px;
+    padding: 0.3cm 0.5cm 0.3cm 0.5cm;
+
 }
-input
-{
-    position:relative;
-    right:5cm;
-    top:1.5cm;
+input{
+    position: absolute;
+    right: 20cm
 }
